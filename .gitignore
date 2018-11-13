@@ -13,7 +13,7 @@
 /laravel_videoyarn-error.log
 /laravel_video.env
 /laravel_video.phpunit.result.cache
-data
+/data
 
 .DS_Store
 /vue_webapp/node_modules/
